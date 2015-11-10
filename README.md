@@ -1,8 +1,8 @@
 # Repo
 Make fake repositories with AutoMoq more easily
 
-Big thanks to the creators of these:
-Moq: https://github.com/Moq/moq4
+Big thanks to the creators of these:<br />
+Moq: https://github.com/Moq/moq4<br />
 AutoFixture: https://github.com/AutoFixture/AutoFixture
  
 To use this tool: 
