@@ -28,7 +28,7 @@ Once that's completed, the usage in a test class is simple:
         .Add("Name","Feng","Age",26)
         .C1();                          //initialize it
   
-      SomeController ctrl = new Controller(repo);
+      SomeController ctrl = new SomeController(repo);
   
       //Act
       var a = ctrl.GetPersonByName("Aaron");
